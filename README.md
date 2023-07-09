@@ -12,7 +12,7 @@ A code using the https://uiverse.io/ library to style CSS
 
 <div>
   
-  [![Watch the video](https://github.com/nadiduno/timerpomodoro/blob/main/.github/ImgApp.pnh)](https://github.com/nadiduno/timerpomodoro/blob/main/.github/VideoApp.mp4)
+  [![Watch the video](https://github.com/nadiduno/AnimateLoading/blob/main/.github/ImgApp.png)](https://github.com/nadiduno/AnimateLoading/blob/main/.github/VideoApp.mp4)
   
   <br />
 </div>
