@@ -10,9 +10,6 @@ A code using the https://uiverse.io/ library to style CSS
 
 [Universe CSS](https://uiverse.io/Nawsome/spicy-wolverine-85)
 
-<div>
-  
-  [![Watch the video](https://github.com/nadiduno/AnimateLoading/blob/main/.github/ImgApp.gif)]
-  
-  <br />
-</div>
+<br />
+
+[![Watch the video](https://github.com/nadiduno/AnimateLoading/blob/main/.github/ImgApp.gif)]
