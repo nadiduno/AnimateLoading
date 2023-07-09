@@ -11,6 +11,8 @@ A code using the https://uiverse.io/ library to style CSS
 [Universe CSS](https://uiverse.io/Nawsome/spicy-wolverine-85)
 
 <div>
-  ![Loading](https://github.com/nadiduno/timerpomodoro/blob/main/.github/ImgApp.mp4)
+  
+  [![Watch the video](https://github.com/nadiduno/timerpomodoro/blob/main/.github/ImgApp.pnh)](https://github.com/nadiduno/timerpomodoro/blob/main/.github/VideoApp.mp4)
+  
   <br />
 </div>
