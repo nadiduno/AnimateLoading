@@ -11,9 +11,11 @@ A code using the https://uiverse.io/ library to style CSS
 [Universe CSS](https://uiverse.io/Nawsome/spicy-wolverine-85)
 
 <div>
-  <img 
-    src="https://github.com/nadiduno/AnimateLoading/blob/main/.github/ImgApp.mp4" 
-    width="60%"
-  >
+  <iframe
+        src="https://github.com/nadiduno/timerpomodoro/blob/main/.github/ImgApp.png"
+        allowFullScreen
+        width="640"
+        height="360"
+      />
   <br />
 </div>
